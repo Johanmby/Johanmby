@@ -24,7 +24,7 @@
 
 <p align="start"> 
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,discord,html,java,js,mongodb,mysql,nodejs,ts,vscode,c#&perline=14" />
+    <img src="https://skillicons.dev/icons?i=dotnet,git,github,css,discord,html,java,js,mongodb,mysql,nodejs,ts,vscode,c#&perline=20" />
   </a>  
 </p>
 
