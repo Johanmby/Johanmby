@@ -48,7 +48,7 @@
 <h2 align="start"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <br>
 <p align="start">
-  <a href="[[https://www.linkedin.com/in/adam-pithewan](https://www.linkedin.com/in/johan-manuel-ben%C3%ADtez-yaruro-071205325/)](https://www.linkedin.com/in/johan-manuel-ben%C3%ADtez-yaruro-071205325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/johan-manuel-ben%C3%ADtez-yaruro-071205325/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
