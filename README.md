@@ -45,7 +45,7 @@
 <br>
 <br>
 
-<h2 align="start"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2 align="start"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me </h2>
 <br>
 <p align="start">
   <a href="https://www.linkedin.com/in/johan-manuel-ben%C3%ADtez-yaruro-071205325/" target="blank"><img align="center"
