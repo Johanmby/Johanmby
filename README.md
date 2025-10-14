@@ -37,6 +37,13 @@
 
 <div align="start">
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+  <br>
+
+  - 🔗 [Phone book](https://github.com/JohannmbyDEV/portfoliohttps://github.com/Johanmby/Agenda-telefonica.git)
+  - 💡 [NexoCiencias Platform](https://github.com/JohannmbyDEV/nexociencias)
+  - ⚙️ [API Backend](https://github.com/JohannmbyDEV/backend-api)
+  - 🧮 [Math Projects](https://github.com/JohannmbyDEV/math-tools)
+  - 🌐 [Personal Blog](https://github.com/JohannmbyDEV/blog)
 
  
 </details>
