@@ -15,7 +15,7 @@
 - Web Developer
 - Dual language skills, English and Spanish
 - Currently learning Backend Web Development on your own
-- I’m currently open for an Intern or a new job opportunity, this is [my portfolio](https://resilient-arithmetic-8a34e6.netlify.app/)
+- I’m currently open for an Intern or a new job opportunity, this is [my portfolio](https://genuine-otter-2d9076.netlify.app/)
 
 <br><br>
 
